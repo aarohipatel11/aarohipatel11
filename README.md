@@ -1,4 +1,4 @@
-### Hi there! I am currently learning how to code in Python and C++. I look forward to being skilled in both of these languages and more. 
+### Hi there! I'm currently on a journey to improve my programming skills and explore the world of software development. I'm passionate about learning new technologies, solving problems, and building projects. 
 
 <!--
 **aarohipatel11/aarohipatel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
